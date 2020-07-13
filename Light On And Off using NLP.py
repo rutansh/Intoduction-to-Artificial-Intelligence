@@ -7,8 +7,8 @@ import json
 
 #set up API CONFIGURATION
 apiUrl="https://westeurope.api.cognitive.microsoft.com/luis/v2.0/apps/"
-appId="225dd1a4-bba9-494f-8808-79f1d2f56568"
-appKey="9c12031c6d924d4ca45bde62722f5407"
+appId="APPID"
+appKey="APIKEY"
 #prompt for command
 
 command=input('please enter a command:')
